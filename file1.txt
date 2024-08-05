@@ -1,0 +1,1 @@
+this is first line we wrote in file1.txt
